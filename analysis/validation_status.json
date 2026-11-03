@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "source_files": 14,
+  "manifest_parsed": true,
+  "json_template_parsed": true,
+  "static_check": "passed",
+  "javac_syntax": "no_java_syntax_errors_detected_with_unresolved_android_symbols",
+  "android_build": "NOT_RUN_missing_android_sdk_and_gradle",
+  "device_test": "NOT_RUN",
+  "REA": "NOT_RUN_missing_jadx_and_npm_network",
+  "app_equivalence": "NOT_VERIFIED"
+}
